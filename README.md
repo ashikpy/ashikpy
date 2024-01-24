@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashik</h1>
 <h3 align="center">A passionate frontend developer from Tamil Nadu, India!</h3>
-<div style="background-image: url('./Ash.jpg'); background-size: cover; height: 300px;">
+<div style="background-image: url('Ash.jpg'); background-size: cover; height: 300px;">
 - 🌱 I’m currently learning **React, Tailwind, PHP, TS**
 
 - 💬 Ask me about **CSS, Python**
