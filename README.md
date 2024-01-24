@@ -1,5 +1,5 @@
 <div align="center">
-<img src='./Ash.jpg' height='200px' border-radius="50%"/>
+<img src='./ash_2.jpg' height='200px' border-radius="50%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Ashik</h1>
 <h3 align="center">A passionate frontend developer from Tamil Nadu, India!</h3>
