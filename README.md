@@ -2,7 +2,7 @@
 <img src='./ash_3.png' height='200px' border-radius="50px"/>
 </div>
 <h1 align="center">Hi 👋, I'm Ashik</h1>
-<h3 align="center">A passionate frontend developer from Tamil Nadu, India!</h3>
+<h3 align="center">A passionate wanable developer from Tamil Nadu, India!</h3>
 <div style="background-image: url('Ash.jpg'); background-size: cover; height: 300px;">
 <div align='center'>
   
