@@ -6,7 +6,7 @@
 <div style="background-image: url('Ash.jpg'); background-size: cover; height: 300px;">
 <div align='center'>
   
-<p>🌱 I’m currently learning <b>React, Tailwind, PHP, TS</b> </p>
+<p>🌱 I’m currently learning <b>React, Tailwind, TS</b> </p>
 
  💬 Ask me about **CSS, Python**
  
