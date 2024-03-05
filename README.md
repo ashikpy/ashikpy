@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Ashik</h1>
 <h3 align="center">A passionate wanable developer from Tamil Nadu, India!</h3>
-<div style="background-image: url('Ash.jpg'); background-size: cover; height: 300px;">
 <div align='center'>
   
 <p>🌱 I’m currently learning <b>React, Tailwind, TS</b> </p>
