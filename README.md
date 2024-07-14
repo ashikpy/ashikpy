@@ -12,7 +12,7 @@
  
 📫 How to reach me **ashikofficial455@gmail.com**
 </div>
-<img src="https://media1.tenor.com/m/ykDwz31GelgAAAAd/spiderman-happy.gif"/>
+<img src="https://media1.tenor.com/m/ykDwz31GelgAAAAd/spiderman-happy.gif" width='500px'/>
 
 <h2 align="left">T e c h s</h2>
 <div align="left">
