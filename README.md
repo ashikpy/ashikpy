@@ -5,7 +5,7 @@
 <h3 align="center">A passionate wanable developer from Tamil Nadu, India!</h3>
 <div align='center'>
   
-<p>🌱 I’m currently learning <b>React, Tailwind, TS</b> </p>
+<p>🌱 I’m currently learning <b>React, NextJs, TS</b> </p>
 
  💬 Ask me about **CSS, Python**
  
@@ -25,8 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/tailwind-original.svg" height="40" alt="react logo"  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
 </div>
 
 
