@@ -8,7 +8,7 @@
 <p>🌱 I’m currently learning <b>TS & App Dev</b> </p>
   
 
- 💬 Ask me about **CSS, Python**
+ 💬 Ask me about **CSS, Python, ReactJs**
  
 📫 How to reach me **ashikofficial455@gmail.com**
 </div>
