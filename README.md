@@ -5,7 +5,7 @@
 <h3 align="left">A passionate wanable developer from Tamil Nadu, India!</h3>
 <div align='left'>
 </div>
-<p>🌱 I’m currently learning <b>TypeScript & App Dev (React Native)</b> </p>
+<p>🌱 I’m currently learning <b>TypeScript & Swift</b> </p>
   
 
  💬 Ask me about **CSS, Python, ReactJs**
