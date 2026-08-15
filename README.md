@@ -7,7 +7,7 @@
 </div>
 <p>I design end to end product experiences and also build things in code, mainly <b>HTML, CSS, JavaScript, Python, and React</b>.</p>
 
-📍 Portfolio: [ashikpy.vercel.app](https://ashikpy.vercel.app)
+📍 Portfolio: [ashikpy.xyz](https://ashikpy.xyz)
 
 💼 LinkedIn: [ashikpy](https://www.linkedin.com/in/ashikpy/)
 
