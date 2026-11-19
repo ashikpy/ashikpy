@@ -5,7 +5,7 @@
 <h3 align="left">Product Designer (UX/UI) based in Tamil Nadu, India.</h3>
 <div align='left'>
 </div>
-<p>I design end to end product experiences and also build things in code, mainly <b>HTML, CSS, JavaScript, Python, and React</b>.</p>
+<p>I design end to end product experiences and also build things in code, mainly Using <b>NextJs</b>.</p>
 
 📍 Portfolio: [ashikpy.xyz](https://ashikpy.xyz)
 
